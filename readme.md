@@ -5,9 +5,9 @@
 
 ## Contents
 
-- [Section](#section)
-- [Another Section](#another-section)
-
+- [Concept](#concept)
+- [Method & technique](#method&technique)
+- [Research](#research)
 
 ## Section
 

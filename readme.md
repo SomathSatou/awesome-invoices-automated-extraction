@@ -6,24 +6,27 @@
 ## Contents
 
 - [Concept](#concept)
-- [Method & technique](#method&technique)
+- [Industrial solution](#industrial)
 - [Research](#research)
 
-## Section
+## Concept
 
-About this section. Optional. Keep this short and focus on the list.
+Some of the concept to know for better understanding of information retrieval solution.
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [Word2Vector](https://www.tensorflow.org/text/tutorials/word2vec)
+- [Tokenization](https://www.techtarget.com/searchsecurity/definition/tokenization)
+- [Named Entity Recognition](http://example.com](https://medium.com/mysuperai/what-is-named-entity-recognition-ner-and-how-can-i-use-it-2b68cf6f545d))
 
+## Industrial
 
-## Another Section
+solutions you need to know about from the industry
 
-### Subsection
+- [Nanonets](https://nanonets.com)
+- [Ks2](https://www.ks2.fr/)
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+## Research 
 
+All the document processing related research
 
 ## Contribute
 
